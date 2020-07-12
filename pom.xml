@@ -6,6 +6,7 @@
     <modules>
         <module>蓝桥杯练习</module>
         <module>算法四练习</module>
+        <module>力扣</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
